@@ -18,8 +18,6 @@ Oh, and you can read '**maique**' as '**mike**'. That's how it sounds when a Por
 Home is sweet and sunny [Lisbon](https://maiquemadeira.com/touristintown).  
 Home is also the lovely island of [Príncipe](https://maiquemadeira.com/principepeople). 
 
-<center><img src="https://micro.maiquemadeira.com/uploads/2021/9900dd19e9.jpg" width="400"></center>
-
 ### Contact
 
 If you'd like to get in touch, even if it's just to say hi, you can do that on [Twitter](https://twitter.com/maique), [Telegram](https://t.me/maique), and [Mastodon](https://mastodon.social/@maique). 
