@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![praiaBoi](https://micro.maiquemadeira.com/uploads/2021/b483ab3da7.jpg)
+![praiaBoi](https://micro.maique.eu/uploads/2021/b483ab3da7.jpg)
 
 ### Hey there, my name is maique.
 
