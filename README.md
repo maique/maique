@@ -20,7 +20,7 @@ Home is also the lovely island of [Príncipe](https://maiquemadeira.com/principe
 
 ### Contact
 
-If you'd like to get in touch, even if it's just to say hi, you can do that on [Twitter](https://twitter.com/maique), [Telegram](https://t.me/maique), and [Mastodon](https://mastodon.social/@maique). 
+If you'd like to get in touch, even if it's just to say hi, you can do that on [Mastodon](https://mastodon.social/@maique). 
 
 Privacy minded folks can reach out on [Signal](https://signal.group/#CjQKIFENz47b2dxIvBl0v2GkDkRWoxwOb-uPMi2qeV4SCEZ1EhA0HwkExYUQx4m65egQUpng). 
 
